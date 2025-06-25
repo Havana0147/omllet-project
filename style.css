@@ -1,0 +1,58 @@
+body{
+   padding: 0px;
+   margin: 0px;
+  font-size: 9px;
+}
+
+.main-container{
+    background-color: rgb(252, 127, 204);
+    height: 100vh;
+   
+}
+
+.mini-container{
+
+background-color: aliceblue;
+position: absolute;
+left: 40%;
+transform: translate(-50% -50%);
+height: 760px;
+width: 500px;
+border-radius: 20px;
+padding: 10px;
+}
+
+img{
+    height: 250px;
+    width: 500px;
+    border-radius: 20px;
+
+}
+
+h1{
+    font-size: x-large;
+    font-weight: 600;
+    color: rgb(202, 22, 127);
+    font-style: initial;
+}
+h3{
+    font-size: medium;
+    color: rgb(196, 30, 173);
+}
+h2{
+    font-size: larger;
+    color: rgb(238, 118, 118);
+}
+
+
+.leftside{
+    padding-right: 200px;
+}
+
+
+
+
+
+
+
+
